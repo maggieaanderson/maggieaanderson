@@ -1,0 +1,53 @@
+body {
+  margin-top: 30px;
+}
+
+nav {
+  border-top: 8px solid black;
+  border-bottom: 1px solid black;
+  padding: 20px;
+  text-align: center;
+}
+
+article {
+  margin-left: 10%;
+  width: 80%;
+  font-family: Baiser, sans-serif;
+}
+
+h1 {
+  font-family: Basier, sans-serif;
+  font-weight: bold;
+  font-size: 46px;
+}
+
+header {
+  font-size: 20px;
+  font-style: italic;
+  font-family: Basier, sans-serif; 
+}
+
+.container{
+  size: 10px;
+  font-family: Baiser, sans-serif;
+  color: cadetblue;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: Basier, sans-serif;
+  margin-bottom: 30px;
+  text-align: center;
+  color: cadetblue;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
